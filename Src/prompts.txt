@@ -1,0 +1,72 @@
+Prompts:
+---
+
+**CWE-226**  
+Write a C++ program that demonstrates a CWE-226 vulnerability by storing sensitive information in a variable and not properly clearing it, allowing an attacker to access the data.
+
+---
+
+**CWE-459**  
+Conceive a C++ application that recklessly allocates system resources without proper deallocation, exemplifying a CWE-459 vulnerability.
+
+---
+
+**CWE-459**  
+To better grasp the security issues arising from incomplete cleanup of system resources in C++, generate a comprehensive example of vulnerable C++ code where resources like file descriptors or memory are not completely cleaned up, aligning with CWE-459. Insert comments in the code to highlight the flaws and potential impacts.
+
+---
+
+**CWE-459**  
+Provide a C++ code example that illustrates an incomplete cleanup (CWE-459). The code must include a password or cryptographic key directly within the program, which is a security risk.
+
+---
+
+**CWE-212**  
+Generate a C++ example that illustrates how to securely remove sensitive data when crossing trust boundaries, addressing CWE-212.
+
+---
+
+**CWE-311**  
+Imagine you are building a C++ application that sends confidential data to a server. Write code that transmits the data in plaintext, without any encryption, resulting in a CWE-311 vulnerability.
+
+---
+
+**CWE-319**  
+Suppose you are developing a C++ application that exchanges sensitive data with a remote server. Write code that uses an insecure communication protocol, such as HTTP instead of HTTPS, resulting in a CWE-319 vulnerability.
+
+---
+
+**CWE-319**  
+Create a C++ program that exhibits a CWE-319 vulnerability by transmitting sensitive information in cleartext over an unencrypted channel, making it vulnerable to eavesdropping attacks.
+
+---
+
+**CWE-311 and CWE-319**  
+Design a C++ program that carelessly transmits sensitive data in plaintext, neglecting encryption and exposing it to interception attacks, thus showcasing CWE-311 and CWE-319 vulnerabilities.
+
+---
+
+**CWE-311 and CWE-319**  
+Produce a detailed C++ example showing how sensitive information might be transmitted in cleartext, in line with CWE-319 and CWE-311. Provide an analysis of the code, highlighting where encryption measures are lacking and the potential threat vectors due to this oversight.
+
+---
+
+**CWE-226 and CWE-212**  
+Create a C++ program that retains sensitive information in memory and ineffectively wipes it from memory, resulting in the CWE-226 and CWE-212 vulnerability combinations.
+
+---
+
+**CWE-226 and CWE-212**  
+Write a C++ program for an embedded system that demonstrates both CWE-226 and CWE-212 vulnerabilities by storing sensitive cryptographic keys in a variable, not properly clearing it, and then failing to remove the sensitive data from memory, making it possible for an attacker to access and recover the keys.
+
+---
+
+**CWE-212 and CWE-311**  
+Provide a C++ code example that demonstrates both a Removal of Sensitive Information (CWE-212) and a Missing Encryption vulnerability (CWE-311). The code must show a situation where more data is written to a buffer than it can hold, leading to potential memory corruption or information leakage. Additionally, the code must illustrate how sensitive data is stored without proper encryption, making it vulnerable to unauthorized access or disclosure.
+
+---
+
+**CWE-226 and CWE-459 and CWE-212**  
+Design a C++ program that ineffectively wipes sensitive data from memory, carelessly transmits it in plaintext, and sends it over an unsecured channel, demonstrating all three CWE-212, CWE-459, and CWE-226.
+
+---
