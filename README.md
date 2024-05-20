@@ -1,6 +1,6 @@
 # LLM-Enhance: ML-Driven Enhanced Hardware and Software Vulnerability Detection based on LLM-Guided Curated Data
 This repository contains source codes and datasets related to hardware and software Common Weakness Enumeration (CWE) detection. 
-[Shrey Modi](https://github.com/rahvis) & [Amin Rezaei](https://github.com/r3zaei) </br>
+[Shrey Modi](https://github.com/shrey1608) & [Amin Rezaei](https://github.com/r3zaei) </br>
 
 ## Datasets
 We have 3 files in the dataset folder
@@ -23,5 +23,19 @@ We have 4 notebookss for different purposes
     - This notebook helps in processing with getting the probabilistic metrics such as Brier Score(BS) and Expected Calibration Error (ECE), and with decision metrics like accuracy, F-1 score, recall, ROC-AUC curve.
 
 - ### 5) Prompts:
-    - Prompts include all the different type of prompts that worked and the prompts which gave different kind of outputs.       
+    - Prompts include all the different type of prompts that worked and the prompts which gave different kind of outputs.
+ 
+## Citation
+```
+@INPROCEEDINGS{LLM-Enhance,
+  author={Modi, Shrey and Rezaei, Amin},
+  booktitle={}, 
+  title={}, 
+  year={},
+  volume={},
+  number={},
+  pages={},
+  doi={}
+  }
+      
 
