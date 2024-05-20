@@ -1,9 +1,8 @@
-# LLM-Enhance
-
-This repository contains various components related to the research paper and source codes of LLMEnhance. 
+# LLM-Enhance: ML-Driven Enhanced Hardware and Software Vulnerability Detection based on LLM-Guided Curated Data
+This repository contains source codes and datasets related to hardware and software Common Weakness Enumeration (CWE) detection. 
+[Shrey Modi](https://github.com/rahvis) & [Amin Rezaei](https://github.com/r3zaei) </br>
 
 ## Datasets
-
 We have 3 files in the dataset folder
 - LLM_base_data: This contains the base data for custom data finetuning. The base data is in the form of instructions/prompt and output.
 - LLM_Custom_Data: This is the dataset that is derived from finetuning the LLM models on base data after running in the LLM data finetuning notebook.
@@ -11,7 +10,6 @@ We have 3 files in the dataset folder
 
 ## Source Code
 We have 4 notebookss for different purposes
-
 - ### 1) LLM Data Finetuning:
     - This notebook consist of the source code to generate the custom finetuned data where you can change the custom data and also change different LLM's with different parameters to meet the need. If you want to get the LLM_pre_trained dataset then you can just include the LLM and eliminate the custom data.
 
