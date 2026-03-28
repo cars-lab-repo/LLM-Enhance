@@ -9,7 +9,7 @@ We have 3 files in the dataset folder
 - LLM_pre_trained: this is the dataset which is derived from normal finetuning of LLM models without the use of base data.
 
 ## Source Code
-We have 4 notebookss for different purposes
+We have 4 notebooks for different purposes
 - ### 1) LLM Data Finetuning:
     - This notebook consist of the source code to generate the custom finetuned data where you can change the custom data and also change different LLM's with different parameters to meet the need. If you want to get the LLM_pre_trained dataset then you can just include the LLM and eliminate the custom data.
 
