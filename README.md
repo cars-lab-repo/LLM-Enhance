@@ -28,14 +28,15 @@ We have 4 notebooks for different purposes
 ## Citation
 ```
 @INPROCEEDINGS{LLM-Enhance,
-  author={Modi, Shrey and Rezaei, Amin},
-  booktitle={}, 
-  title={}, 
-  year={},
+  author={Modi, Shrey and Vishwakarma, Rahul and Rezaei, Amin},
+  title={LLM-Enhance: Fine-Tuning Large Language Models for Enhanced Detection of Common Weakness Enumerations}, 
+  booktitle={2016 IEEE 19th Dallas Circuits and Systems Conference (DCAS)}, 
+  year={2026},
   volume={},
   number={},
   pages={},
   doi={}
-  }
+}
+```
       
 
