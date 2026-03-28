@@ -1,4 +1,4 @@
-# LLM-Enhance: ML-Driven Enhanced Hardware and Software Vulnerability Detection based on LLM-Guided Curated Data
+# LLM-Enhance: Fine-Tuning Large Language Models for Enhanced Detection of Common Weakness Enumerations
 This repository contains source codes and datasets related to hardware and software Common Weakness Enumeration (CWE) detection. </br>
 [Shrey Modi](https://github.com/shrey1608) & [Amin Rezaei](https://github.com/r3zaei) </br>
 
