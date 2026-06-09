@@ -34,8 +34,8 @@ We have 4 notebooks for different purposes
   year={2026},
   volume={},
   number={},
-  pages={},
-  doi={}
+  pages={1-4},
+  doi={10.1109/DCAS69364.2026.11544941}
 }
 ```
       
